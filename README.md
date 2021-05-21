@@ -28,5 +28,5 @@ python manage.py runserver
      1. **Endpoint: /api/branches?q=<>**
      2. Example: /api/branches?q=**Bangalore**&limit=4&offset=0
      3. Sample response:
-
-      ![bankbranches](bank_branches.jpeg)
+     
+        ![bankbranches](bank_branches.jpeg)
