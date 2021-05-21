@@ -25,9 +25,8 @@ python manage.py runserver
        ![bank](bank.jpeg)
 
 2. Search API to return possible matches across all columns and all rows, **ordered by IFSC code** (ascending order) with limit and offset.
+     1. **Endpoint: /api/branches?q=<>**
+     2. Example: /api/branches?q=**Bangalore**&limit=4&offset=0
+     3. Sample response:
 
-1. **Endpoint: /api/branches?q=<>**
-2. Example: /api/branches?q=**Bangalore**&limit=4&offset=0
-3. Sample response:
-      
       ![bankbranches](bank_branches.jpeg)
