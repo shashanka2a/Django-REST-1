@@ -18,4 +18,4 @@ python manage.py runserver
 
 ![bank](bank.jpeg)
 
-![bankbranches](bankbranches.jpeg)
+![bankbranches](bank_branches.jpeg)
