@@ -1,14 +1,14 @@
 ## Assignment
  Create a REST service that can fetch bank details, using the data given in the API’s query parameters.
 
-## Environment
+### Environment
 
 ```sh
 $  pip install -r requirements.txt
 ```
 
 
-## Run
+### Run
 
 
 ```python
