@@ -4,7 +4,7 @@
 ### Environment
 
 ```sh
-$  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### CSV to DB
