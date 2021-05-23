@@ -7,6 +7,11 @@
 $  pip install -r requirements.txt
 ```
 
+### CSV to DB
+
+```python
+python manage.py load_data.py
+```
 
 ### Run
 
@@ -16,6 +21,7 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
+
 ### Essentials:
 
 1. Autocomplete API to return possible matches based on the branch name **ordered by IFSC code** (ascending order) with limit and offset.
